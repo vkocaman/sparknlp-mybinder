@@ -3,5 +3,4 @@ channels:
   - conda-forge
 dependencies:
   - pyspark
-  - spark_nlp
 
